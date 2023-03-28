@@ -1,3 +1,6 @@
-Nombre: Messi
-Telefono: 2477303580
-Categoria: Fulbo
+Nombre: Messi
+
+Telefono: 000
+
+Categoria: Fulbo
+
