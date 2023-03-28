@@ -1,3 +1,6 @@
-Nombre: Robertino
-Telefono: 542477318699
-Categoria: Crack
+Nombre: Robertino
+
+Telefono: 000
+
+Categoria: Crack
+
